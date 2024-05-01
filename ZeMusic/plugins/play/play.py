@@ -32,14 +32,14 @@ Nem = config.BOT_NAME + " شغل"
             "تشغيل",
             "شغل",
             Nem,
-            "/play",
-            "/vplay",
-            "/cplay",
-            "/cvplay",
-            "/playforce",
-            "/vplayforce",
-            "/cplayforce",
-            "/cvplayforce",
+            "play",
+            "vplay",
+            "cplay",
+            "cvplay",
+            "playforce",
+            "vplayforce",
+            "cplayforce",
+            "cvplayforce",
         ],""
     )
     & ~BANNED_USERS

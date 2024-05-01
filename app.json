@@ -72,7 +72,7 @@
       },
       "LOGGER_ID": {
         "description": "ايدي مجموعة السجل الخاص بك.",
-        "value": "",
+        "value": "-100",
         "required": true
       }
     },

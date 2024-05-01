@@ -24,7 +24,7 @@ reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "‹ لتنصيب بوت ›", url=f"https://t.me/IC_19"),
+                        "‹ لتنصيب بوت ميوزك ›", url=f"https://t.me/IC_19"),
                 ],[
                     
                 
